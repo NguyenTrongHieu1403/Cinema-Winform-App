@@ -1,0 +1,353 @@
+C:\Users\asus\Downloads\Cinema Finale\Main\Main\bin\Debug\net6.0-windows\Main.exe
+C:\Users\asus\Downloads\Cinema Finale\Main\Main\bin\Debug\net6.0-windows\Main.deps.json
+C:\Users\asus\Downloads\Cinema Finale\Main\Main\bin\Debug\net6.0-windows\Main.runtimeconfig.json
+C:\Users\asus\Downloads\Cinema Finale\Main\Main\bin\Debug\net6.0-windows\Main.dll
+C:\Users\asus\Downloads\Cinema Finale\Main\Main\bin\Debug\net6.0-windows\Main.pdb
+C:\Users\asus\Downloads\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.csproj.GenerateResource.cache
+C:\Users\asus\Downloads\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Downloads\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.AssemblyInfoInputs.cache
+C:\Users\asus\Downloads\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.AssemblyInfo.cs
+C:\Users\asus\Downloads\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.csproj.CoreCompileInputs.cache
+C:\Users\asus\Downloads\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.dll
+C:\Users\asus\Downloads\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\refint\Main.dll
+C:\Users\asus\Downloads\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.pdb
+C:\Users\asus\Downloads\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.genruntimeconfig.cache
+C:\Users\asus\Downloads\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\ref\Main.dll
+C:\Users\asus\Downloads\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.Properties.Resources.resources
+C:\Users\asus\Downloads\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.FormLogin.resources
+C:\Users\asus\Downloads\Cinema Finale\Main\Main\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\asus\Downloads\Cinema Finale\Main\Main\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\asus\Downloads\Cinema Finale\Main\Main\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\asus\Downloads\Cinema Finale\Main\Main\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\asus\Downloads\Cinema Finale\Main\Main\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\asus\Downloads\Cinema Finale\Main\Main\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\asus\Downloads\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.csproj.AssemblyReference.cache
+C:\Users\asus\Downloads\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.Fhome.resources
+C:\Users\asus\Downloads\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.csproj.Up2Date
+C:\Users\asus\Downloads\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.Help.resources
+C:\Users\asus\Downloads\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.EditProfile.resources
+C:\Users\asus\Downloads\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.RegisterForm.resources
+C:\Users\asus\Downloads\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.ViewTicket.resources
+C:\Users\asus\Downloads\Cinema Finale\Main\Main\bin\Debug\net6.0-windows\Guna.UI2.dll
+C:\Users\asus\Downloads\Cinema Finale\Main\Main\bin\Debug\net6.0-windows\System.Management.dll
+C:\Users\asus\Downloads\Cinema Finale\Main\Main\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+C:\Users\asus\Downloads\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.Home.resources
+C:\Users\asus\Downloads\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.HomeCinema.resources
+C:\Users\asus\Downloads\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.Staff.resources
+C:\Users\asus\Downloads\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.StaffProperties.resources
+C:\Users\asus\Downloads\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.EditUser.resources
+C:\Users\asus\Downloads\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.ForgotPass.resources
+C:\Users\asus\Downloads\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.HomeCinemaSale.resources
+C:\Users\asus\Downloads\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.MovieShow.resources
+C:\Users\asus\Downloads\Cinema Finale\Main\Main\bin\Debug\net6.0-windows\FontAwesome.Sharp.dll
+C:\Users\asus\Downloads\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.StaffForm.resources
+C:\Users\asus\Downloads\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.CinemaSaleHome.resources
+C:\Users\asus\Downloads\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.AddMovie.resources
+C:\Users\asus\Downloads\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.ConfirmDelete.resources
+C:\Users\asus\Downloads\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.EditMovie.resources
+C:\Users\asus\Downloads\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.editstaff.resources
+C:\Users\asus\Downloads\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.MovieManager.resources
+C:\Users\asus\Downloads\Cinema Finale\Main\Main\bin\Debug\net6.0-windows\Google.Apis.dll
+C:\Users\asus\Downloads\Cinema Finale\Main\Main\bin\Debug\net6.0-windows\Google.Apis.Admin.Directory.directory_v1.dll
+C:\Users\asus\Downloads\Cinema Finale\Main\Main\bin\Debug\net6.0-windows\Google.Apis.Auth.dll
+C:\Users\asus\Downloads\Cinema Finale\Main\Main\bin\Debug\net6.0-windows\Google.Apis.Core.dll
+C:\Users\asus\Downloads\Cinema Finale\Main\Main\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\asus\Downloads\Cinema Finale\Main\Main\bin\Debug\net6.0-windows\System.CodeDom.dll
+D:\155\Cinema Finale (5)\Cinema Finale\Main\Main\bin\Debug\net6.0-windows\Main.exe
+D:\155\Cinema Finale (5)\Cinema Finale\Main\Main\bin\Debug\net6.0-windows\Main.deps.json
+D:\155\Cinema Finale (5)\Cinema Finale\Main\Main\bin\Debug\net6.0-windows\Main.runtimeconfig.json
+D:\155\Cinema Finale (5)\Cinema Finale\Main\Main\bin\Debug\net6.0-windows\Main.dll
+D:\155\Cinema Finale (5)\Cinema Finale\Main\Main\bin\Debug\net6.0-windows\Main.pdb
+D:\155\Cinema Finale (5)\Cinema Finale\Main\Main\bin\Debug\net6.0-windows\FontAwesome.Sharp.dll
+D:\155\Cinema Finale (5)\Cinema Finale\Main\Main\bin\Debug\net6.0-windows\Google.Apis.dll
+D:\155\Cinema Finale (5)\Cinema Finale\Main\Main\bin\Debug\net6.0-windows\Google.Apis.Admin.Directory.directory_v1.dll
+D:\155\Cinema Finale (5)\Cinema Finale\Main\Main\bin\Debug\net6.0-windows\Google.Apis.Auth.dll
+D:\155\Cinema Finale (5)\Cinema Finale\Main\Main\bin\Debug\net6.0-windows\Google.Apis.Core.dll
+D:\155\Cinema Finale (5)\Cinema Finale\Main\Main\bin\Debug\net6.0-windows\Guna.UI2.dll
+D:\155\Cinema Finale (5)\Cinema Finale\Main\Main\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+D:\155\Cinema Finale (5)\Cinema Finale\Main\Main\bin\Debug\net6.0-windows\System.CodeDom.dll
+D:\155\Cinema Finale (5)\Cinema Finale\Main\Main\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\155\Cinema Finale (5)\Cinema Finale\Main\Main\bin\Debug\net6.0-windows\System.Management.dll
+D:\155\Cinema Finale (5)\Cinema Finale\Main\Main\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\155\Cinema Finale (5)\Cinema Finale\Main\Main\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\155\Cinema Finale (5)\Cinema Finale\Main\Main\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\155\Cinema Finale (5)\Cinema Finale\Main\Main\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\155\Cinema Finale (5)\Cinema Finale\Main\Main\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\155\Cinema Finale (5)\Cinema Finale\Main\Main\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+D:\155\Cinema Finale (5)\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.csproj.AssemblyReference.cache
+D:\155\Cinema Finale (5)\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.AddMovie.resources
+D:\155\Cinema Finale (5)\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.CinemaSaleHome.resources
+D:\155\Cinema Finale (5)\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.ConfirmDelete.resources
+D:\155\Cinema Finale (5)\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.EditMovie.resources
+D:\155\Cinema Finale (5)\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.EditProfile.resources
+D:\155\Cinema Finale (5)\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.editstaff.resources
+D:\155\Cinema Finale (5)\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.EditUser.resources
+D:\155\Cinema Finale (5)\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.Fhome.resources
+D:\155\Cinema Finale (5)\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.ForgotPass.resources
+D:\155\Cinema Finale (5)\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.FormLogin.resources
+D:\155\Cinema Finale (5)\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.Help.resources
+D:\155\Cinema Finale (5)\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.Home.resources
+D:\155\Cinema Finale (5)\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.HomeCinema.resources
+D:\155\Cinema Finale (5)\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.HomeCinemaSale.resources
+D:\155\Cinema Finale (5)\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.MovieManager.resources
+D:\155\Cinema Finale (5)\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.MovieShow.resources
+D:\155\Cinema Finale (5)\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.Properties.Resources.resources
+D:\155\Cinema Finale (5)\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.RegisterForm.resources
+D:\155\Cinema Finale (5)\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.Staff.resources
+D:\155\Cinema Finale (5)\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.StaffForm.resources
+D:\155\Cinema Finale (5)\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.StaffProperties.resources
+D:\155\Cinema Finale (5)\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.ViewTicket.resources
+D:\155\Cinema Finale (5)\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.csproj.GenerateResource.cache
+D:\155\Cinema Finale (5)\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.GeneratedMSBuildEditorConfig.editorconfig
+D:\155\Cinema Finale (5)\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.AssemblyInfoInputs.cache
+D:\155\Cinema Finale (5)\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.AssemblyInfo.cs
+D:\155\Cinema Finale (5)\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.csproj.CoreCompileInputs.cache
+D:\155\Cinema Finale (5)\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.csproj.Up2Date
+D:\155\Cinema Finale (5)\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.dll
+D:\155\Cinema Finale (5)\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\refint\Main.dll
+D:\155\Cinema Finale (5)\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.pdb
+D:\155\Cinema Finale (5)\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.genruntimeconfig.cache
+D:\155\Cinema Finale (5)\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\ref\Main.dll
+D:\155\Cinema Finale (5)\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.CustomerManager.resources
+D:\155\Cinema Finale (5)\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.AddProduct.resources
+D:\155\Cinema Finale (5)\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.EditCustomer.resources
+D:\155\Cinema Finale (5)\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.EditProduct.resources
+D:\155\Cinema Finale (5)\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.ImportProduct.resources
+D:\155\Cinema Finale (5)\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.ProductManager.resources
+D:\155\Cinema Finale (5)\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.QlProducts.resources
+D:\155\Cinema Finale (5)\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.qlSanPham.resources
+D:\155\Cinema Finale (5)\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.ShowtimeManager.resources
+D:\155\Cinema Finale (5)\Cinema Finale\Main\Main\bin\Debug\net6.0-windows\Xceed.Document.NET5.dll
+D:\155\Cinema Finale (5)\Cinema Finale\Main\Main\bin\Debug\net6.0-windows\Xceed.Words.NET5.dll
+D:\155\Cinema Finale (5)\Cinema Finale\Main\Main\bin\Debug\net6.0-windows\EPPlus.dll
+D:\155\Cinema Finale (5)\Cinema Finale\Main\Main\bin\Debug\net6.0-windows\EPPlus.Interfaces.dll
+D:\155\Cinema Finale (5)\Cinema Finale\Main\Main\bin\Debug\net6.0-windows\EPPlus.System.Drawing.dll
+D:\155\Cinema Finale (5)\Cinema Finale\Main\Main\bin\Debug\net6.0-windows\LiveCharts.WinForms.dll
+D:\155\Cinema Finale (5)\Cinema Finale\Main\Main\bin\Debug\net6.0-windows\LiveCharts.Wpf.dll
+D:\155\Cinema Finale (5)\Cinema Finale\Main\Main\bin\Debug\net6.0-windows\LiveCharts.dll
+D:\155\Cinema Finale (5)\Cinema Finale\Main\Main\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+D:\155\Cinema Finale (5)\Cinema Finale\Main\Main\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\155\Cinema Finale (5)\Cinema Finale\Main\Main\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\155\Cinema Finale (5)\Cinema Finale\Main\Main\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\155\Cinema Finale (5)\Cinema Finale\Main\Main\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\155\Cinema Finale (5)\Cinema Finale\Main\Main\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\155\Cinema Finale (5)\Cinema Finale\Main\Main\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\155\Cinema Finale (5)\Cinema Finale\Main\Main\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\155\Cinema Finale (5)\Cinema Finale\Main\Main\bin\Debug\net6.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+D:\155\Cinema Finale (5)\Cinema Finale\Main\Main\bin\Debug\net6.0-windows\System.Security.Cryptography.Pkcs.dll
+D:\155\Cinema Finale (5)\Cinema Finale\Main\Main\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\155\Cinema Finale (5)\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.AddShowtime.resources
+D:\155\Cinema Finale (5)\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.EditShowtime.resources
+D:\155\Cinema Finale (5)\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.FormHoaDon.resources
+D:\155\Cinema Finale (5)\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.FormSanPham.resources
+D:\155\Cinema Finale (5)\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.MiniProducts.resources
+D:\155\Cinema Finale (5)\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.MoviePanel.resources
+D:\155\Cinema Finale (5)\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.ParentForm.resources
+D:\155\Cinema Finale (5)\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.ProductUserControl.resources
+D:\155\Cinema Finale (5)\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.SeatBookingForm.resources
+D:\155\Cinema Finale (5)\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.FThongKe.resources
+D:\155\Cinema Finale (5)\Cinema Finale\Main\Main\bin\Debug\net6.0-windows\FLichSu.cs
+D:\155\Cinema Finale (5)\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.FLichSu.resources
+D:\155\Cinema Finale (5)\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.FThongKeXuHuong.resources
+C:\Users\asus\Downloads\CiN\Cinema Finale\Main\Main\bin\Debug\net6.0-windows\Main.exe
+C:\Users\asus\Downloads\CiN\Cinema Finale\Main\Main\bin\Debug\net6.0-windows\FLichSu.cs
+C:\Users\asus\Downloads\CiN\Cinema Finale\Main\Main\bin\Debug\net6.0-windows\Main.deps.json
+C:\Users\asus\Downloads\CiN\Cinema Finale\Main\Main\bin\Debug\net6.0-windows\Main.runtimeconfig.json
+C:\Users\asus\Downloads\CiN\Cinema Finale\Main\Main\bin\Debug\net6.0-windows\Main.dll
+C:\Users\asus\Downloads\CiN\Cinema Finale\Main\Main\bin\Debug\net6.0-windows\Main.pdb
+C:\Users\asus\Downloads\CiN\Cinema Finale\Main\Main\bin\Debug\net6.0-windows\Xceed.Document.NET5.dll
+C:\Users\asus\Downloads\CiN\Cinema Finale\Main\Main\bin\Debug\net6.0-windows\Xceed.Words.NET5.dll
+C:\Users\asus\Downloads\CiN\Cinema Finale\Main\Main\bin\Debug\net6.0-windows\EPPlus.dll
+C:\Users\asus\Downloads\CiN\Cinema Finale\Main\Main\bin\Debug\net6.0-windows\EPPlus.Interfaces.dll
+C:\Users\asus\Downloads\CiN\Cinema Finale\Main\Main\bin\Debug\net6.0-windows\EPPlus.System.Drawing.dll
+C:\Users\asus\Downloads\CiN\Cinema Finale\Main\Main\bin\Debug\net6.0-windows\FontAwesome.Sharp.dll
+C:\Users\asus\Downloads\CiN\Cinema Finale\Main\Main\bin\Debug\net6.0-windows\Google.Apis.dll
+C:\Users\asus\Downloads\CiN\Cinema Finale\Main\Main\bin\Debug\net6.0-windows\Google.Apis.Admin.Directory.directory_v1.dll
+C:\Users\asus\Downloads\CiN\Cinema Finale\Main\Main\bin\Debug\net6.0-windows\Google.Apis.Auth.dll
+C:\Users\asus\Downloads\CiN\Cinema Finale\Main\Main\bin\Debug\net6.0-windows\Google.Apis.Core.dll
+C:\Users\asus\Downloads\CiN\Cinema Finale\Main\Main\bin\Debug\net6.0-windows\Guna.UI2.dll
+C:\Users\asus\Downloads\CiN\Cinema Finale\Main\Main\bin\Debug\net6.0-windows\LiveCharts.WinForms.dll
+C:\Users\asus\Downloads\CiN\Cinema Finale\Main\Main\bin\Debug\net6.0-windows\LiveCharts.Wpf.dll
+C:\Users\asus\Downloads\CiN\Cinema Finale\Main\Main\bin\Debug\net6.0-windows\LiveCharts.dll
+C:\Users\asus\Downloads\CiN\Cinema Finale\Main\Main\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\asus\Downloads\CiN\Cinema Finale\Main\Main\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\asus\Downloads\CiN\Cinema Finale\Main\Main\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\asus\Downloads\CiN\Cinema Finale\Main\Main\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\asus\Downloads\CiN\Cinema Finale\Main\Main\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\asus\Downloads\CiN\Cinema Finale\Main\Main\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\asus\Downloads\CiN\Cinema Finale\Main\Main\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\asus\Downloads\CiN\Cinema Finale\Main\Main\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\asus\Downloads\CiN\Cinema Finale\Main\Main\bin\Debug\net6.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\asus\Downloads\CiN\Cinema Finale\Main\Main\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\asus\Downloads\CiN\Cinema Finale\Main\Main\bin\Debug\net6.0-windows\System.CodeDom.dll
+C:\Users\asus\Downloads\CiN\Cinema Finale\Main\Main\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\asus\Downloads\CiN\Cinema Finale\Main\Main\bin\Debug\net6.0-windows\System.Management.dll
+C:\Users\asus\Downloads\CiN\Cinema Finale\Main\Main\bin\Debug\net6.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\asus\Downloads\CiN\Cinema Finale\Main\Main\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\asus\Downloads\CiN\Cinema Finale\Main\Main\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\asus\Downloads\CiN\Cinema Finale\Main\Main\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\asus\Downloads\CiN\Cinema Finale\Main\Main\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\asus\Downloads\CiN\Cinema Finale\Main\Main\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\asus\Downloads\CiN\Cinema Finale\Main\Main\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+C:\Users\asus\Downloads\CiN\Cinema Finale\Main\Main\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\asus\Downloads\CiN\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.csproj.AssemblyReference.cache
+C:\Users\asus\Downloads\CiN\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.AddMovie.resources
+C:\Users\asus\Downloads\CiN\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.AddProduct.resources
+C:\Users\asus\Downloads\CiN\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.AddShowtime.resources
+C:\Users\asus\Downloads\CiN\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.CinemaSaleHome.resources
+C:\Users\asus\Downloads\CiN\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.ConfirmDelete.resources
+C:\Users\asus\Downloads\CiN\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.CustomerManager.resources
+C:\Users\asus\Downloads\CiN\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.EditCustomer.resources
+C:\Users\asus\Downloads\CiN\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.EditMovie.resources
+C:\Users\asus\Downloads\CiN\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.EditProduct.resources
+C:\Users\asus\Downloads\CiN\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.EditProfile.resources
+C:\Users\asus\Downloads\CiN\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.EditShowtime.resources
+C:\Users\asus\Downloads\CiN\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.editstaff.resources
+C:\Users\asus\Downloads\CiN\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.EditUser.resources
+C:\Users\asus\Downloads\CiN\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.Fhome.resources
+C:\Users\asus\Downloads\CiN\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.FLichSu.resources
+C:\Users\asus\Downloads\CiN\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.ForgotPass.resources
+C:\Users\asus\Downloads\CiN\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.FormHoaDon.resources
+C:\Users\asus\Downloads\CiN\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.FormLogin.resources
+C:\Users\asus\Downloads\CiN\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.FormSanPham.resources
+C:\Users\asus\Downloads\CiN\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.FThongKe.resources
+C:\Users\asus\Downloads\CiN\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.FThongKeXuHuong.resources
+C:\Users\asus\Downloads\CiN\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.Help.resources
+C:\Users\asus\Downloads\CiN\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.Home.resources
+C:\Users\asus\Downloads\CiN\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.HomeCinema.resources
+C:\Users\asus\Downloads\CiN\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.HomeCinemaSale.resources
+C:\Users\asus\Downloads\CiN\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.ImportProduct.resources
+C:\Users\asus\Downloads\CiN\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.MiniProducts.resources
+C:\Users\asus\Downloads\CiN\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.MovieManager.resources
+C:\Users\asus\Downloads\CiN\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.MoviePanel.resources
+C:\Users\asus\Downloads\CiN\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.MovieShow.resources
+C:\Users\asus\Downloads\CiN\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.ParentForm.resources
+C:\Users\asus\Downloads\CiN\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.ProductManager.resources
+C:\Users\asus\Downloads\CiN\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.ProductUserControl.resources
+C:\Users\asus\Downloads\CiN\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.Properties.Resources.resources
+C:\Users\asus\Downloads\CiN\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.QlProducts.resources
+C:\Users\asus\Downloads\CiN\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.qlSanPham.resources
+C:\Users\asus\Downloads\CiN\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.RegisterForm.resources
+C:\Users\asus\Downloads\CiN\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.SeatBookingForm.resources
+C:\Users\asus\Downloads\CiN\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.ShowtimeManager.resources
+C:\Users\asus\Downloads\CiN\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.Staff.resources
+C:\Users\asus\Downloads\CiN\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.StaffForm.resources
+C:\Users\asus\Downloads\CiN\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.StaffProperties.resources
+C:\Users\asus\Downloads\CiN\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.ViewTicket.resources
+C:\Users\asus\Downloads\CiN\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.csproj.GenerateResource.cache
+C:\Users\asus\Downloads\CiN\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Downloads\CiN\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.AssemblyInfoInputs.cache
+C:\Users\asus\Downloads\CiN\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.AssemblyInfo.cs
+C:\Users\asus\Downloads\CiN\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.csproj.CoreCompileInputs.cache
+C:\Users\asus\Downloads\CiN\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.csproj.Up2Date
+C:\Users\asus\Downloads\CiN\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.dll
+C:\Users\asus\Downloads\CiN\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\refint\Main.dll
+C:\Users\asus\Downloads\CiN\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.pdb
+C:\Users\asus\Downloads\CiN\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.genruntimeconfig.cache
+C:\Users\asus\Downloads\CiN\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\ref\Main.dll
+C:\Users\asus\Downloads\CiN\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.TicketInfoDetailForm.resources
+C:\Users\asus\Downloads\CiN\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.ViewTickets.resources
+C:\Users\asus\Downloads\Final\Cinema Finale\Cinema Finale\Main\Main\bin\Debug\net6.0-windows\Main.exe
+C:\Users\asus\Downloads\Final\Cinema Finale\Cinema Finale\Main\Main\bin\Debug\net6.0-windows\FLichSu.cs
+C:\Users\asus\Downloads\Final\Cinema Finale\Cinema Finale\Main\Main\bin\Debug\net6.0-windows\Main.deps.json
+C:\Users\asus\Downloads\Final\Cinema Finale\Cinema Finale\Main\Main\bin\Debug\net6.0-windows\Main.runtimeconfig.json
+C:\Users\asus\Downloads\Final\Cinema Finale\Cinema Finale\Main\Main\bin\Debug\net6.0-windows\Main.dll
+C:\Users\asus\Downloads\Final\Cinema Finale\Cinema Finale\Main\Main\bin\Debug\net6.0-windows\Main.pdb
+C:\Users\asus\Downloads\Final\Cinema Finale\Cinema Finale\Main\Main\bin\Debug\net6.0-windows\Xceed.Document.NET5.dll
+C:\Users\asus\Downloads\Final\Cinema Finale\Cinema Finale\Main\Main\bin\Debug\net6.0-windows\Xceed.Words.NET5.dll
+C:\Users\asus\Downloads\Final\Cinema Finale\Cinema Finale\Main\Main\bin\Debug\net6.0-windows\EPPlus.dll
+C:\Users\asus\Downloads\Final\Cinema Finale\Cinema Finale\Main\Main\bin\Debug\net6.0-windows\EPPlus.Interfaces.dll
+C:\Users\asus\Downloads\Final\Cinema Finale\Cinema Finale\Main\Main\bin\Debug\net6.0-windows\EPPlus.System.Drawing.dll
+C:\Users\asus\Downloads\Final\Cinema Finale\Cinema Finale\Main\Main\bin\Debug\net6.0-windows\FontAwesome.Sharp.dll
+C:\Users\asus\Downloads\Final\Cinema Finale\Cinema Finale\Main\Main\bin\Debug\net6.0-windows\Google.Apis.dll
+C:\Users\asus\Downloads\Final\Cinema Finale\Cinema Finale\Main\Main\bin\Debug\net6.0-windows\Google.Apis.Admin.Directory.directory_v1.dll
+C:\Users\asus\Downloads\Final\Cinema Finale\Cinema Finale\Main\Main\bin\Debug\net6.0-windows\Google.Apis.Auth.dll
+C:\Users\asus\Downloads\Final\Cinema Finale\Cinema Finale\Main\Main\bin\Debug\net6.0-windows\Google.Apis.Core.dll
+C:\Users\asus\Downloads\Final\Cinema Finale\Cinema Finale\Main\Main\bin\Debug\net6.0-windows\Guna.UI2.dll
+C:\Users\asus\Downloads\Final\Cinema Finale\Cinema Finale\Main\Main\bin\Debug\net6.0-windows\LiveCharts.WinForms.dll
+C:\Users\asus\Downloads\Final\Cinema Finale\Cinema Finale\Main\Main\bin\Debug\net6.0-windows\LiveCharts.Wpf.dll
+C:\Users\asus\Downloads\Final\Cinema Finale\Cinema Finale\Main\Main\bin\Debug\net6.0-windows\LiveCharts.dll
+C:\Users\asus\Downloads\Final\Cinema Finale\Cinema Finale\Main\Main\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\asus\Downloads\Final\Cinema Finale\Cinema Finale\Main\Main\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\asus\Downloads\Final\Cinema Finale\Cinema Finale\Main\Main\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\asus\Downloads\Final\Cinema Finale\Cinema Finale\Main\Main\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\asus\Downloads\Final\Cinema Finale\Cinema Finale\Main\Main\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\asus\Downloads\Final\Cinema Finale\Cinema Finale\Main\Main\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\asus\Downloads\Final\Cinema Finale\Cinema Finale\Main\Main\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\asus\Downloads\Final\Cinema Finale\Cinema Finale\Main\Main\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\asus\Downloads\Final\Cinema Finale\Cinema Finale\Main\Main\bin\Debug\net6.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\asus\Downloads\Final\Cinema Finale\Cinema Finale\Main\Main\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\asus\Downloads\Final\Cinema Finale\Cinema Finale\Main\Main\bin\Debug\net6.0-windows\System.CodeDom.dll
+C:\Users\asus\Downloads\Final\Cinema Finale\Cinema Finale\Main\Main\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\asus\Downloads\Final\Cinema Finale\Cinema Finale\Main\Main\bin\Debug\net6.0-windows\System.Management.dll
+C:\Users\asus\Downloads\Final\Cinema Finale\Cinema Finale\Main\Main\bin\Debug\net6.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\asus\Downloads\Final\Cinema Finale\Cinema Finale\Main\Main\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\asus\Downloads\Final\Cinema Finale\Cinema Finale\Main\Main\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\asus\Downloads\Final\Cinema Finale\Cinema Finale\Main\Main\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\asus\Downloads\Final\Cinema Finale\Cinema Finale\Main\Main\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\asus\Downloads\Final\Cinema Finale\Cinema Finale\Main\Main\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\asus\Downloads\Final\Cinema Finale\Cinema Finale\Main\Main\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+C:\Users\asus\Downloads\Final\Cinema Finale\Cinema Finale\Main\Main\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\asus\Downloads\Final\Cinema Finale\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.csproj.AssemblyReference.cache
+C:\Users\asus\Downloads\Final\Cinema Finale\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.AddMovie.resources
+C:\Users\asus\Downloads\Final\Cinema Finale\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.AddProduct.resources
+C:\Users\asus\Downloads\Final\Cinema Finale\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.AddShowtime.resources
+C:\Users\asus\Downloads\Final\Cinema Finale\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.CinemaSaleHome.resources
+C:\Users\asus\Downloads\Final\Cinema Finale\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.ConfirmDelete.resources
+C:\Users\asus\Downloads\Final\Cinema Finale\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.CustomerManager.resources
+C:\Users\asus\Downloads\Final\Cinema Finale\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.EditCustomer.resources
+C:\Users\asus\Downloads\Final\Cinema Finale\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.EditMovie.resources
+C:\Users\asus\Downloads\Final\Cinema Finale\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.EditProduct.resources
+C:\Users\asus\Downloads\Final\Cinema Finale\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.EditProfile.resources
+C:\Users\asus\Downloads\Final\Cinema Finale\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.EditShowtime.resources
+C:\Users\asus\Downloads\Final\Cinema Finale\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.editstaff.resources
+C:\Users\asus\Downloads\Final\Cinema Finale\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.EditUser.resources
+C:\Users\asus\Downloads\Final\Cinema Finale\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.Fhome.resources
+C:\Users\asus\Downloads\Final\Cinema Finale\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.FLichSu.resources
+C:\Users\asus\Downloads\Final\Cinema Finale\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.ForgotPass.resources
+C:\Users\asus\Downloads\Final\Cinema Finale\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.FormHoaDon.resources
+C:\Users\asus\Downloads\Final\Cinema Finale\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.FormLogin.resources
+C:\Users\asus\Downloads\Final\Cinema Finale\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.FormSanPham.resources
+C:\Users\asus\Downloads\Final\Cinema Finale\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.FThongKe.resources
+C:\Users\asus\Downloads\Final\Cinema Finale\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.FThongKeXuHuong.resources
+C:\Users\asus\Downloads\Final\Cinema Finale\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.Help.resources
+C:\Users\asus\Downloads\Final\Cinema Finale\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.Home.resources
+C:\Users\asus\Downloads\Final\Cinema Finale\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.HomeCinema.resources
+C:\Users\asus\Downloads\Final\Cinema Finale\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.HomeCinemaSale.resources
+C:\Users\asus\Downloads\Final\Cinema Finale\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.ImportProduct.resources
+C:\Users\asus\Downloads\Final\Cinema Finale\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.MiniProducts.resources
+C:\Users\asus\Downloads\Final\Cinema Finale\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.MovieManager.resources
+C:\Users\asus\Downloads\Final\Cinema Finale\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.MoviePanel.resources
+C:\Users\asus\Downloads\Final\Cinema Finale\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.MovieShow.resources
+C:\Users\asus\Downloads\Final\Cinema Finale\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.ParentForm.resources
+C:\Users\asus\Downloads\Final\Cinema Finale\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.ProductManager.resources
+C:\Users\asus\Downloads\Final\Cinema Finale\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.ProductUserControl.resources
+C:\Users\asus\Downloads\Final\Cinema Finale\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.Properties.Resources.resources
+C:\Users\asus\Downloads\Final\Cinema Finale\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.QlProducts.resources
+C:\Users\asus\Downloads\Final\Cinema Finale\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.qlSanPham.resources
+C:\Users\asus\Downloads\Final\Cinema Finale\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.RegisterForm.resources
+C:\Users\asus\Downloads\Final\Cinema Finale\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.SeatBookingForm.resources
+C:\Users\asus\Downloads\Final\Cinema Finale\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.ShowtimeManager.resources
+C:\Users\asus\Downloads\Final\Cinema Finale\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.Staff.resources
+C:\Users\asus\Downloads\Final\Cinema Finale\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.StaffForm.resources
+C:\Users\asus\Downloads\Final\Cinema Finale\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.StaffProperties.resources
+C:\Users\asus\Downloads\Final\Cinema Finale\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.TicketInfoDetailForm.resources
+C:\Users\asus\Downloads\Final\Cinema Finale\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.ViewTicket.resources
+C:\Users\asus\Downloads\Final\Cinema Finale\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.ViewTickets.resources
+C:\Users\asus\Downloads\Final\Cinema Finale\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.csproj.GenerateResource.cache
+C:\Users\asus\Downloads\Final\Cinema Finale\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Downloads\Final\Cinema Finale\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.AssemblyInfoInputs.cache
+C:\Users\asus\Downloads\Final\Cinema Finale\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.AssemblyInfo.cs
+C:\Users\asus\Downloads\Final\Cinema Finale\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.csproj.CoreCompileInputs.cache
+C:\Users\asus\Downloads\Final\Cinema Finale\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.csproj.Up2Date
+C:\Users\asus\Downloads\Final\Cinema Finale\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.dll
+C:\Users\asus\Downloads\Final\Cinema Finale\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\refint\Main.dll
+C:\Users\asus\Downloads\Final\Cinema Finale\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.pdb
+C:\Users\asus\Downloads\Final\Cinema Finale\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.genruntimeconfig.cache
+C:\Users\asus\Downloads\Final\Cinema Finale\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\ref\Main.dll
+C:\Users\asus\Downloads\Final\Cinema Finale\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.AppAbout.resources
+C:\Users\asus\Downloads\Final\Cinema Finale\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.FormAbout.resources
+C:\Users\asus\Downloads\Cinema Finale-20250109T062126Z-001\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.csproj.AssemblyReference.cache
+C:\Users\asus\Downloads\Cinema Finale-20250109T062126Z-001\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.dll
+C:\Users\asus\Downloads\Cinema Finale-20250109T062126Z-001\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\refint\Main.dll
+C:\Users\asus\Downloads\Cinema Finale-20250109T062126Z-001\Cinema Finale\Main\Main\obj\Debug\net6.0-windows\Main.pdb

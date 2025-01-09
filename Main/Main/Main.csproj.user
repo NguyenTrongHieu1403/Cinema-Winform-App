@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AddShowtime.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AppAbout.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EditCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AddMovie.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AddProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CinemaSaleHome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ConfirmDelete.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CustomerManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EditMovie.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EditProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EditProfile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EditShowtime.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="editstaff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EditUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Fhome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ForgotPass.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormAbout.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Help.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Home.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="HomeCinema.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="HomeCinemaSale.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ImportProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MovieManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MovieShow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ProductManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RegisterForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ShowtimeManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Staff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="StaffForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="StaffProperties.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TicketInfoDetailForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ViewTicket.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ViewTickets.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
